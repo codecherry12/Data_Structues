@@ -1,3 +1,4 @@
+#O(logn)
 def BinarySearch(seq,key):
     L=0
     U=len(seq)-1

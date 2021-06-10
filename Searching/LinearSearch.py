@@ -1,3 +1,4 @@
+#O(n)-time complexity
 def LinearSearch(seq,key):
     for i in range(len(seq)):
         if seq[i]==key:
